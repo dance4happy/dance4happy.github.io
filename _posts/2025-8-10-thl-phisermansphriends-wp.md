@@ -150,7 +150,7 @@ if __name__ == "__main__":
 
 得到mail密码 MurRusko_90
 
-<img src="../assets/images/2025/hacking/PhisermansPhriends-WP/01.png" alt="01" style="zoom:50%;" />
+<img src="assets/images/2025/hacking/PhisermansPhriends-WP/01.png" alt="01" style="zoom:50%;" />
 
 看wp还要钓鱼，难绷.
 

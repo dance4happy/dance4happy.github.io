@@ -1,5 +1,5 @@
 ---
-pythontitle: "晚间温暖小火炉：PhisermansPhriends-WP"
+title: "晚间温暖小火炉：PhisermansPhriends-WP"
 date: 2025-8-10
 categories: [learn,wp,随笔]
 tags: [learn,thehackerlabs_wp]
